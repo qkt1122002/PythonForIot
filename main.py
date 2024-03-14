@@ -1,5 +1,2 @@
-print('hello')
-def sayHello():
-    print("Xin chao")
-sayHello()
-sayHello()
+import matplotlib
+print(matplotlib.__version__)
